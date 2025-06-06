@@ -43,3 +43,6 @@ The custom visual retrieves vector tiles via a dedicated API that acts as a prox
 * Power BI Custom Visual SDK
 * Vector tiles (.pbf)
 * Node.js
+
+## Project Limitations
+Due to the proprietary nature of the code used in the project, I cannot share the source code.
