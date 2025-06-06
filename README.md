@@ -12,6 +12,10 @@ This project is a custom visual for Power BI that renders interactive maps using
 
 ## Project structure
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="dokumentti1.png" alt="map" width="800">
+</div>
+
 This visual is split into multiple `visual.ts` implementations, each with its own use case:
 
 ### Vector tile map
@@ -35,6 +39,10 @@ This visual is split into multiple `visual.ts` implementations, each with its ow
 ## API
 
 The custom visual retrieves vector tiles via a dedicated API that acts as a proxy to an external vector tile server.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="dokumentaatio9.png" alt="API" width="800">
+</div>
 
 ## Technologies used
 
