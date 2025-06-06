@@ -1,5 +1,5 @@
 # Power BI Custom Map Visual
-### // TypeScript, pbiviz, Node.js, Leaflet 
+### // TypeScript, pbiviz, Node.js, SUpercluster, Leaflet 
 
 This project is a custom visual for Power BI that renders interactive maps using vector tiles, clustered point data, and custom HTML elements. The visual is built with Leaflet and integrates with a custom API that serves vector tiles from an external tile server.
 
