@@ -11,7 +11,7 @@ This project is a custom visual for Power BI that renders interactive maps using
 - Supports high-density spatial data and dynamic zoom behavior
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="dokumentti1.png" alt="map" width="800">
+  <img src="dokumentti1.png" alt="map" width="700">
 </div>
 
 ## Project structure
