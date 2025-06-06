@@ -10,11 +10,11 @@ This project is a custom visual for Power BI that renders interactive maps using
 - API layer for fetching vector tiles securely and efficiently
 - Supports high-density spatial data and dynamic zoom behavior
 
-## Project structure
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="dokumentti1.png" alt="map" width="800">
 </div>
+
+## Project structure
 
 This visual is split into multiple `visual.ts` implementations, each with its own use case:
 
