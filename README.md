@@ -49,7 +49,6 @@ The custom visual retrieves vector tiles via a dedicated API that acts as a prox
 * Leaflet.js
 * OpenStreetMap
 * Supercluster
-* Power BI Custom Visual SDK
 * Vector tiles (.pbf)
 * Node.js
 * pbiviz
